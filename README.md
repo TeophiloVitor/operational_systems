@@ -6,3 +6,6 @@ O trabalho 1 consistia no mapeamento de uma memória cache através de uso de Th
 ## Solução
 O detalhamento, explicações e como executar nosso projeto pode ser acessado no relatório[![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/TeophiloVitor/operational_systems/blob/main/Trabalho_1_SO_Threads.pdf)
 , como também o código produzido pode ser acessado no notebook[![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/TeophiloVitor/operational_systems/blob/main/SO_U1_Threads.ipynb)
+
+## Trabalho 2
+O trabalho 2 consistia na resolução de exercícios sobre escalonamento de processos, o roteiro[![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/TeophiloVitor/operational_systems/blob/main/exercicio_escalonamento_processos.pdf) consistia em 2 exercícios, a minha solução desenvolvida e explicada pode ser acessada aqui[![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/TeophiloVitor/operational_systems/blob/main/Trabalho_2_SO_teophilo.pdf)
