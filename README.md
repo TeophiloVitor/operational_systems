@@ -9,3 +9,6 @@ O detalhamento, explicações e como executar nosso projeto pode ser acessado no
 
 ## Trabalho 2
 O trabalho 2 consistia na resolução de exercícios sobre escalonamento de processos, o roteiro[![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/TeophiloVitor/operational_systems/blob/main/exercicio_escalonamento_processos.pdf) consistia em 2 exercícios, a minha solução desenvolvida e explicada pode ser acessada aqui[![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/TeophiloVitor/operational_systems/blob/main/Trabalho_2_SO_teophilo.pdf)
+
+## Trabalho 3
+O trabalho 3 consistia na resolução de um exercício sobre gerenciamento de memória virtual, o roteiro[![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/TeophiloVitor/operational_systems/blob/main/exercicio_gerencia_memoria_virtual.pdf) consistia em 1 exercício, no qual dveriam ser implementados os algoritmos FIFO, LRU e ÓTIMO, a minha solução desenvolvida e explicada e com os códigos pode ser acessada aqui[![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/TeophiloVitor/operational_systems/blob/main/Trabalho_3_SO_Teophilo.pdf)
